@@ -18,6 +18,13 @@ CIS 520: Machine Learning\
 ESE 546: Principles of Deep Learning\
 ESE 542: Stastics for Data Science
 
+
+### Love to ...
+Swim, cycling(biking), cook, read
+
+### Fond of ...
+Elephants, Coffee, and cricket
+
 ### Contact
 
 Email: sigoel@seas.upenn.edu\
