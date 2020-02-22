@@ -1,6 +1,6 @@
 ## Siddharth Goel
 
-Graduate Data Science student at University of Pennsylvania . 
+Graduate Data Science student at University of Pennsylvania\
 Graduation Date: May 2021
 
 ###
