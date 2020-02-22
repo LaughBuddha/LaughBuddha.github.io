@@ -1,14 +1,15 @@
 ## Siddharth Goel
 
-Graduate Data Science student at University of Pennsylvania
+Graduate Data Science student at University of Pennsylvania . 
 Graduation Date: May 2021
 
+###
 
 ### Courses
-CIS 530: Computational Linguistics - Natural Language Processing
-CIS 522: Deep Learning for Data Science
-CIS 545: Big Data Analytics
-CIS 520: Machine Learning
+CIS 530: Computational Linguistics - Natural Language Processing . 
+CIS 522: Deep Learning for Data Science . 
+CIS 545: Big Data Analytics . 
+CIS 520: Machine Learning . 
 ESE 546: Principles of Deep Learning
 ESE 542: Stastics for Data Science
 
