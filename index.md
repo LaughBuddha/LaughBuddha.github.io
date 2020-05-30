@@ -23,9 +23,10 @@ ESE 542: Stastics for Data Science
 Swim, cycling(biking), cook, read
 
 ### Fond of ...
- --- | ---
-Elephants | Coffee | 
-| Beer | 
+| | |
+--- | --- | 
+Elephants | Coffee | Beaches 
+| Beer | Mountains
 | Wine |
 
 ### Shows I liked
