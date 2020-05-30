@@ -11,13 +11,12 @@ Graduation Date: May 2021
 4. Apache Spark - PySpark
    
 ### Courses I took at UPenn
-CIS 530: Computational Linguistics - Natural Language Processing\
-CIS 522: Deep Learning for Data Science\
-CIS 545: Big Data Analytics\
 CIS 520: Machine Learning\
+ESE 542: Stastics for Data Science\
+CIS 545: Big Data Analytics\
+CIS 522: Deep Learning for Data Science\
 ESE 546: Principles of Deep Learning\
-ESE 542: Stastics for Data Science
-
+CIS 530: Computational Linguistics - Natural Language Processing
 
 ### Fond of ...
 Food & Drinks | Activities | Places | Animals 
