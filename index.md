@@ -26,11 +26,11 @@ Swim, cycling(biking), cook, read
 Elephants, Coffee, and cricket
 
 ### Shows I liked
-> Name | Genre | Platform
-> ---
-> The Last Dance | Sports (NBA) | Netflix
-> Formula 1: Drive to Survive | Sports (F1) | Netflix
->
+ Name | Genre | Platform
+ --- | --- | ---
+ The Last Dance | Sports (NBA) | Netflix
+ Formula 1: Drive to Survive | Sports (F1) | Netflix
+
 
 ### Contact
 
