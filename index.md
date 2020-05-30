@@ -43,4 +43,4 @@ Pizza |
 ### Contact
 
 Email: sigoel@seas.upenn.edu\
-[LinkedIn](https://www.linkedin.com/in/siddharth-goel-in/)
+LinkedIn: https://www.linkedin.com/in/siddharth-goel-in/
