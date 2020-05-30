@@ -10,7 +10,7 @@ Graduation Date: May 2021
 3. NoSQL - MongoDB
 4. Apache Spark - PySpark
    
-### Courses
+### Courses I took at UPenn
 CIS 530: Computational Linguistics - Natural Language Processing\
 CIS 522: Deep Learning for Data Science\
 CIS 545: Big Data Analytics\
@@ -43,4 +43,4 @@ Pizza |
 ### Contact
 
 Email: sigoel@seas.upenn.edu\
-LinkedIn: linkedin.com/in/siddharth-goel-in/
+[LinkedIn](https://www.linkedin.com/in/siddharth-goel-in/)
