@@ -19,9 +19,6 @@ ESE 546: Principles of Deep Learning\
 ESE 542: Stastics for Data Science
 
 
-### Love to ...
-Swim, cycling(biking), cook, read
-
 ### Fond of ...
 Food & Drinks | Activities | Places | Animals 
 --- | --- | --- | ---
