@@ -24,10 +24,10 @@ Swim, cycling(biking), cook, read
 
 ### Fond of ...
 | | |
---- | --- | 
+--- | --- | ---
 Elephants | Coffee | Beaches 
-| Beer | Mountains
-| Wine |
+ | Beer | Mountains
+ | Wine |
 
 ### Shows I liked
  Name | Genre | Platform
