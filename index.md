@@ -30,7 +30,10 @@ Elephants, Coffee, and cricket
  --- | --- | ---
  The Last Dance | Sports (NBA) | Netflix
  Formula 1: Drive to Survive | Sports (F1) | Netflix
-
+ The Test: A New Era for Australia's Team | Sports (Cricket) | Amazon Prime
+ Free Solo | Sports (Rock Climbing) | Disney+
+ The Final Table | Food | Netflix
+ The World's Most Extraordinary Homes | Lifestyle | Netflix
 
 ### Contact
 
