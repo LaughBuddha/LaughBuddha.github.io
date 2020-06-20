@@ -10,7 +10,7 @@ Graduation Date: May 2021
 3. NoSQL - MongoDB
 4. Apache Spark - PySpark
    
-### Courses I took at UPenn
+### Courses taken at UPenn
 
 Data Science | Deep Learning | NLP
 --- | --- | ---
@@ -20,7 +20,7 @@ CIS 545: Big Data Analytics |  |
 
 ### Fond of ...
 Food & Drinks | Activities | Places | Animals 
---- | --- | --- | ---
+------------- | ---------- | ------ | -------
 Coffee | Swimming | Beaches | Elephants
 Beer | Cycling | Mountains |
 Wine | Reading |
@@ -29,7 +29,7 @@ Pizza |
 
 ### Shows I liked
  Name | Genre | Platform
- --- | --- | ---
+ ---- | ----- | --------
  The Last Dance | Sports (NBA) | Netflix
  Formula 1: Drive to Survive | Sports (F1) | Netflix
  The Test: A New Era for Australia's Team | Sports (Cricket) | Amazon Prime
