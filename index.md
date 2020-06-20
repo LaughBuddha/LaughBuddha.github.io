@@ -1,6 +1,6 @@
 ## Siddharth Goel
 
-Graduate student at University of Pennsylvania [(Masters in Data Science)](https://dats.seas.upenn.edu/)\
+Graduate student at University of Pennsylvania [(Masters in Data Science)](https://dats.seas.upenn.edu/)
 Graduation Date: May 2021
 
 ### Technology, languages, tools
@@ -20,12 +20,12 @@ CIS 545: Big Data Analytics |  |
 
 ### Fond of ...
 Food & Drinks | Activities | Places | Animals 
-------------- | ---------- | ------ | -------
+--- | --- | --- | ---
 Coffee | Swimming | Beaches | Elephants
 Beer | Cycling | Mountains |
-Wine | Reading |
-Mexican | Cooking |
-Pizza | 
+Wine | Reading | |
+Mexican | Cooking | |
+Pizza | | |
 
 ### Shows I liked
  Name | Genre | Platform
