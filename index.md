@@ -29,6 +29,7 @@ Mexican | Cooking |  |
 Pizza |  |  |
 
 ### Shows I liked
+
  Name | Genre | Platform
  ---- | ----- | --------
  The Last Dance | Sports (NBA) | Netflix
