@@ -19,6 +19,7 @@ ESE 542: Stastics for Data Science | ESE 546: Principles of Deep Learning |
 CIS 545: Big Data Analytics |  |
 
 ### Fond of ...
+
 Food & Drinks | Activities | Places | Animals 
 --- | --- | --- | ---
 Coffee | Swimming | Beaches | Elephants
