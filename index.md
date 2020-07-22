@@ -1,7 +1,7 @@
 ## Siddharth Goel
 
 Graduate student at University of Pennsylvania [(Masters in Data Science)](https://dats.seas.upenn.edu/)
-Graduation Date: May 2021
+Graduation Date: December 2021
 
 <!--- Comment -->
 
