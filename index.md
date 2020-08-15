@@ -43,7 +43,9 @@ Pizza |  |  |
  The World's Most Extraordinary Homes | Lifestyle | Netflix
 
 
-### Contact
+### Personal Info
+
+**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 **Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)
 
