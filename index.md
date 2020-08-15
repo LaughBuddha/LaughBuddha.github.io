@@ -2,11 +2,9 @@
 
 Graduate student at **University of Pennsylvania** 
 
-**Program:** [(Masters in Data Science)](https://dats.seas.upenn.edu/)
-
-**Graduation Date:** December 2021
-
-**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
+Program | Graduation Date | Resume
+--- | --- | ---
+[Masters in Data Science](https://dats.seas.upenn.edu/) | December, 2021 | [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
 
