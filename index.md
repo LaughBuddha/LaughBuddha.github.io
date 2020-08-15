@@ -8,13 +8,13 @@ Program | Graduation Date | Resume
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
 
-<!--- Comment -->
-
 ### Technology, languages, tools
-* Python
-   - PyTorch, NumPy, Pandas, scikit-learn, matplotlib, seaborn
+* **Programming Language:** Python
+   - NumPy, pandas, scikit-learn, matplotlib, seaborn
+* **Deep Learning framework:** PyTorch   
 * SQL
 * Apache Spark, PySpark
+* Experience in working on **Amazon EC2** and **EMR** instances
 
 ### Projects
 * **US Traffic Accidents** | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* | [Github Repo](https://github.com/LaughBuddha/Predictive-Analytics/blob/master/US_Traffic_Accidents.ipynb)
