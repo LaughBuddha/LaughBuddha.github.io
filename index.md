@@ -3,14 +3,15 @@
 Graduate student at University of Pennsylvania [(Masters in Data Science)](https://dats.seas.upenn.edu/)
 Graduation Date: December 2021
 
+**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
+
 <!--- Comment -->
 
 ### Technology, languages, tools
 1. Python
    - PyTorch, NumPy, Pandas, scikit-learn, matplotlib, seaborn
 2. SQL
-3. NoSQL - MongoDB
-4. Apache Spark - PySpark
+3. Apache Spark, PySpark
    
 ### Courses taken at UPenn
 
@@ -44,8 +45,6 @@ Pizza |  |  |
 
 
 ### Personal Info
-
-**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 **Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)
 
