@@ -31,6 +31,13 @@ CIS 520: Machine Learning | CIS 522: Deep Learning for Data Science | CIS 530: C
 ESE 542: Stastics for Data Science | ESE 546: Principles of Deep Learning |
 CIS 545: Big Data Analytics |  |
 
+**Teaching Assistant**
+
+Course | Role | Semester
+--- | --- | ---
+ESE 545: Data Mining | TA/Grader | Spring 2020
+ESE 542: Statistics for Data Science (Coursera) | Course Development Assisant | Fall 2020
+
 ### Fond of ...
 
 Food & Drinks | Activities | Places | Animals 
