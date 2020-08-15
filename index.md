@@ -9,18 +9,18 @@ Graduate student at University of Pennsylvania [(Masters in Data Science)](https
 <!--- Comment -->
 
 ### Technology, languages, tools
-1. Python
+* Python
    - PyTorch, NumPy, Pandas, scikit-learn, matplotlib, seaborn
-2. SQL
-3. Apache Spark, PySpark
+* SQL
+* Apache Spark, PySpark
 
 ### Projects
-1. US Traffic Accidents | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* 
-  Built the complete data science pipeline by performing extensive exploratory data analysis, data pre-processing, feature engineering, and data modelling on about 3 million records of the [US Traffic Accidents dataset](https://smoosavi.org/datasets/us_accidents).
+* US Traffic Accidents | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* 
+  - Built the complete data science pipeline by performing extensive exploratory data analysis, data pre-processing, feature engineering, and data modelling on about 3 million records of the [US Traffic Accidents dataset](https://smoosavi.org/datasets/us_accidents).
 
-2. Audio Source Separation | *Deep Learning, PyTorch, Python*
+* Audio Source Separation | *Deep Learning, PyTorch, Python*
 
-  Separated [MUSDB18](https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems) dataset mixture tracks into vocals, drums, bass, and other instruments using LSTM and state-of-the-art deep learning models.
+ - Separated [MUSDB18](https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems) dataset mixture tracks into vocals, drums, bass, and other instruments using LSTM and state-of-the-art deep learning models.
    
 ### Courses taken at UPenn
 
