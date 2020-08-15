@@ -1,4 +1,4 @@
-## Siddharth Goel
+# Siddharth Goel
 
 Graduate student at **University of Pennsylvania** 
 
