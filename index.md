@@ -2,7 +2,7 @@
 
 Graduate student at University of Pennsylvania [(Masters in Data Science)](https://dats.seas.upenn.edu/)
 
-Graduation Date: December 2021
+**Graduation Date:** December 2021
 
 **Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
@@ -16,7 +16,6 @@ Graduation Date: December 2021
 
 ### Projects
 1. US Traffic Accidents | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* 
-
 Built the complete data science pipeline by performing extensive exploratory data analysis, data pre-processing, feature engineering, and data modelling on about 3 million records of the [US Traffic Accidents dataset](https://smoosavi.org/datasets/us_accidents).
 
 2. Audio Source Separation | *Deep Learning, PyTorch, Python*
