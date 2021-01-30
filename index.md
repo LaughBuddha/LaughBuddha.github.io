@@ -16,6 +16,11 @@ Program | Graduation Date | Resume
 * Apache Spark, PySpark
 * Experience in working on **Amazon EC2** and **EMR** instances
 
+### Research
+**Areas** - Computer Vision/Perception in Robotics
+**Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.
+
+
 ### Projects
 * **US Traffic Accidents** | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* | [Github Repo](https://github.com/LaughBuddha/Predictive-Analytics/blob/master/US_Traffic_Accidents.ipynb)
   - Built the complete data science pipeline by performing extensive exploratory data analysis, data pre-processing, feature engineering, and data modelling on about 3 million records of the [US Traffic Accidents dataset](https://smoosavi.org/datasets/us_accidents).
