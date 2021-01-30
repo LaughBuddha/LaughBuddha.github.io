@@ -18,6 +18,7 @@ Program | Graduation Date | Resume
 
 ### Research
 **Areas** - Computer Vision/Perception in Robotics
+
 **Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.
 
 
