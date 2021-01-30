@@ -31,11 +31,11 @@ Program | Graduation Date | Resume
    
 ### Courses taken at UPenn
 
-Data Science | Deep Learning | NLP
---- | --- | ---
-CIS 520: Machine Learning | CIS 522: Deep Learning for Data Science | CIS 530: Computational Linguistics
-ESE 542: Stastics for Data Science | ESE 546: Principles of Deep Learning |
-CIS 545: Big Data Analytics |  |
+Data Science | Deep Learning | NLP | Robotics
+--- | --- | --- | ---
+CIS 520: Machine Learning | CIS 522: Deep Learning for Data Science | CIS 530: Computational Linguistics | ESE 650: Learning in Robotics
+ESE 542: Stastics for Data Science | ESE 546: Principles of Deep Learning |  |
+CIS 545: Big Data Analytics |  |  |
 
 **Teaching Assistant**
 
