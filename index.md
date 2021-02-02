@@ -1,4 +1,4 @@
-# Siddharth Goel <img align="left" src="my_pic_git.jpg" width="215" height="215">
+# Siddharth Goel <img align="left" src="my_pic_git.jpg" width="200" height="215">
 
 Graduate student at **University of Pennsylvania** 
 
