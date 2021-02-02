@@ -1,4 +1,4 @@
-# Siddharth Goel ![display_pic](display_pic.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+# Siddharth Goel 
 
 Graduate student at **University of Pennsylvania** 
 
