@@ -1,8 +1,6 @@
 # Siddharth Goel <img align="right" src="my_pic_git.jpg" width="200" height="215">
 
-Graduate student at **University of Pennsylvania** 
-
-[MSE in Data Science](https://dats.seas.upenn.edu/), December 2021  
+Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
 
