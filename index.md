@@ -17,9 +17,11 @@ Program | Graduation Date | Resume
 * Experience in working on **Amazon EC2** and **EMR** instances
 
 ### Research
-**Areas** - Computer Vision/Perception in Robotics
+Pursuing master's thesis in areas of **Computer Vision/Perception in Robotics**
 
 **Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.
+
+**Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
 
 
 ### Projects
