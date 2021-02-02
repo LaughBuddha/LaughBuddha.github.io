@@ -1,4 +1,4 @@
-# Siddharth Goel ![display_pic](my_pic_git.jpg)
+# Siddharth Goel <img align="right" src="my_pic_git.jpg">
 
 Graduate student at **University of Pennsylvania** 
 
