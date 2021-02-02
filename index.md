@@ -2,6 +2,10 @@
 
 Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
+**Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)
+
+**LinkedIn:** [linkedin.com/in/siddharth-goel-in](https://www.linkedin.com/in/siddharth-goel-in)
+
 **Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
@@ -68,10 +72,3 @@ Pizza |  |  |
  The Dawn Wall | Sports (Rock Climbing) | Netflix
  The Final Table | Food | Netflix
  The World's Most Extraordinary Homes | Lifestyle | Netflix
-
-
-### Personal Info
-
-**Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)
-
-**LinkedIn:** [linkedin.com/in/siddharth-goel-in](https://www.linkedin.com/in/siddharth-goel-in)
