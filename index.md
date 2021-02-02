@@ -2,7 +2,7 @@
 
 Graduate student at **University of Pennsylvania** 
 
-[Masters in Data Science](https://dats.seas.upenn.edu/), December 2021  
+[MSE in Data Science](https://dats.seas.upenn.edu/), December 2021  
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
 
