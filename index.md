@@ -1,6 +1,7 @@
 # Siddharth Goel <img align="right" src="my_pic_git.jpg" width="200" height="215">
 
 Graduate student at **University of Pennsylvania** 
+
 [Masters in Data Science](https://dats.seas.upenn.edu/) | *December, 2021* | [Resume](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
