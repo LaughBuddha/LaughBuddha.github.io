@@ -2,6 +2,8 @@
 
 Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
+**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
+
 **Areas of interest:** Data Science, Machine Learning, Deep Learning
 
 ### Technology, languages, tools
