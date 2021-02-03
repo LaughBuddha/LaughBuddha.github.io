@@ -1,7 +1,6 @@
 # Siddharth Goel <img align="right" src="my_pic_git.jpg" width="200" height="215">
 
-Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
-
+Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)<br/>
 (View my complete **resume** [here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf))
 
 ### Contact Information
