@@ -1,7 +1,6 @@
 # Siddharth Goel <img align="right" src="my_pic_git.jpg" width="200" height="215">
 
-Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)<br/>
-(View my complete **resume** [here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf))
+Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
 ### Contact Information
 **Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)<br/>
@@ -19,7 +18,8 @@ Data Science, Machine Learning, Deep Learning
 * Experience in working on **Amazon EC2** and **EMR** instances
 
 ### Research
-Pursuing master's thesis in **Computer Vision/Perception in Robotics**<br/>
+Pursuing master's thesis in **Computer Vision/Perception in Robotics**
+
 **Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
 
