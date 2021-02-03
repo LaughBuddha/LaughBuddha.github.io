@@ -7,10 +7,10 @@ Graduate student at **University of Pennsylvania**, [MSE in Data Science](https:
 
 **LinkedIn:** [linkedin.com/in/siddharth-goel-in](https://www.linkedin.com/in/siddharth-goel-in)
 
-### Areas of interest
+### Areas of Interest
 Data Science, Machine Learning, Deep Learning
 
-**Resume:** [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
+View my complete **resume:** [here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 ### Technology, languages, tools
 * **Programming Language:** Python
