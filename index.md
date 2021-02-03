@@ -4,8 +4,7 @@ Graduate student at **University of Pennsylvania**, [MSE in Data Science](https:
 (View my complete **resume** [here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf))
 
 ### Contact Information
-**Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)
-
+**Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)<br/>
 **LinkedIn:** [linkedin.com/in/siddharth-goel-in](https://www.linkedin.com/in/siddharth-goel-in)
 
 ### Areas of Interest
@@ -20,10 +19,8 @@ Data Science, Machine Learning, Deep Learning
 * Experience in working on **Amazon EC2** and **EMR** instances
 
 ### Research
-Pursuing master's thesis in **Computer Vision/Perception in Robotics**
-
-**Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.
-
+Pursuing master's thesis in **Computer Vision/Perception in Robotics**<br/>
+**Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal and object goal navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
 
 Started in Jan 2021 and in the very initial stages of the research work. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al. and [AI Habitat](https://aihabitat.org/).
