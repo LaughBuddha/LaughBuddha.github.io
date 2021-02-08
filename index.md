@@ -6,8 +6,7 @@ Graduate student at **University of Pennsylvania**, [MSE in Data Science](https:
 **Email:** [sigoel@seas.upenn.edu](mailto:sigoel@seas.upenn.edu)<br/>
 **LinkedIn:** [linkedin.com/in/siddharth-goel-in](https://www.linkedin.com/in/siddharth-goel-in)
 
-### Resume
-[Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
+### Resume: [Click Here](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf)
 
 ### Areas of Interest
 Data Science, Machine Learning, Deep Learning
