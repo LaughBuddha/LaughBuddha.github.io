@@ -1,6 +1,6 @@
 # Siddharth Goel <img align="right" src="my_pic_git.jpg" width="200" height="215">
 
-[Resume](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddhathGoel_UPenn_Summer2021.pdf) / [Email](mailto:sigoel@seas.upenn.edu) / [LinkedIn](https://www.linkedin.com/in/siddharth-goel-in)
+[Resume](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_UPenn_Summer2021.pdf) / [Email](mailto:sigoel@seas.upenn.edu) / [LinkedIn](https://www.linkedin.com/in/siddharth-goel-in)
 
 Graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
