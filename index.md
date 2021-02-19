@@ -23,7 +23,7 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 
 Started in Jan 2021 and in the very initial stages of the research work. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al. and [AI Habitat](https://aihabitat.org/).
 
-Personal contributions to be updated soon.
+Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
 ### Projects
 * **US Traffic Accidents** | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* | [Github Repo](https://github.com/LaughBuddha/Predictive-Analytics/blob/master/US_Traffic_Accidents.ipynb)
