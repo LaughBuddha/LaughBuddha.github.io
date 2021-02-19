@@ -45,7 +45,7 @@ CIS 545: Big Data Analytics |  |  |
 Course | Role | Semester
 --- | --- | ---
 ESE 545: Data Mining | TA/Grader | Spring 2020
-ESE 542: Statistics for Data Science (Coursera) | Course Development Assistant | Fall 2020
+ESE 542: Statistics for Data Science (Coursera) | Course Development Assistant | Summer 2020
 
 ### Fond of ...
 
