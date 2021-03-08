@@ -21,7 +21,7 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 **Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal, object goal, and multi-object navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
 
-Started in Jan 2021 and in the very initial stages of the research work. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al. and [AI Habitat](https://aihabitat.org/).
+Currently, my research is in very initial stages. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al., [Multi-Object Navigation](https://arxiv.org/pdf/2012.03912.pdf) by Wani et al. and [AI Habitat](https://aihabitat.org/).
 
 Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
