@@ -18,7 +18,7 @@ Data Science, Machine Learning, Deep Learning
 ### Research
 Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 
-**Topic** - Navigation of agents in 3D indoor environments to acheive tasks such as point goal, object goal, and multi-object navigation.<br/>
+**Topic** - Navigation of agents in 3D indoor environments to achieve tasks such as point goal, object goal, and multi-object navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
 
 Currently, my research is in very initial stages. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al., [Multi-Object Navigation](https://arxiv.org/pdf/2012.03912.pdf) by Wani et al. and [AI Habitat](https://aihabitat.org/).
