@@ -37,7 +37,7 @@ Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 Data Science | Deep Learning | NLP | Robotics
 --- | --- | --- | ---
 CIS 520: Machine Learning | CIS 522: Deep Learning for Data Science | CIS 530: Computational Linguistics | ESE 650: Learning in Robotics
-ESE 542: Stastics for Data Science | ESE 546: Principles of Deep Learning |  |
+ESE 542: Statistics for Data Science | ESE 546: Principles of Deep Learning |  |
 CIS 545: Big Data Analytics |  |  |
 
 **Teaching Assistant**
