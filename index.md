@@ -26,7 +26,8 @@ Currently, my research is in very initial stages. To get an idea of the problem 
 Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
 ### Summer Internship (May - Aug, 2021)
-![Amazon_logo](https://user-images.githubusercontent.com/18654826/120941984-a185c200-c6da-11eb-8c77-5d0c3ce069dc.png)
+![logo](https://user-images.githubusercontent.com/18654826/120942005-c9752580-c6da-11eb-82fe-3bf0412c8637.png)
+
 **Applied Scientist, Intern**
 
 ### Projects
