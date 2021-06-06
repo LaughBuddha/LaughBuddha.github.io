@@ -25,6 +25,10 @@ Currently, my research is in very initial stages. To get an idea of the problem 
 
 Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
+### Summer Internship (May - Aug, 2021)
+![Amazon_logo](https://user-images.githubusercontent.com/18654826/120941984-a185c200-c6da-11eb-8c77-5d0c3ce069dc.png)
+**Applied Scientist, Intern**
+
 ### Projects
 * **US Traffic Accidents** | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* | [Github Repo](https://github.com/LaughBuddha/Predictive-Analytics/blob/master/US_Traffic_Accidents.ipynb)
     - Built the complete data science pipeline by performing extensive exploratory data analysis, data pre-processing, feature engineering, and data modelling on about 3 million records of the [US Traffic Accidents dataset](https://smoosavi.org/datasets/us_accidents).
@@ -39,6 +43,7 @@ Data Science | Deep Learning | NLP | Robotics
 CIS 520: Machine Learning | CIS 522: Deep Learning for Data Science | CIS 530: Computational Linguistics | ESE 650: Learning in Robotics
 ESE 542: Statistics for Data Science | ESE 546: Principles of Deep Learning |  |
 CIS 545: Big Data Analytics |  |  |
+STAT 535: Time-series Forecasting Methods | | |
 
 **Teaching Assistant**
 
