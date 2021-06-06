@@ -27,6 +27,7 @@ Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
 ### Summer Internship (May - Aug, 2021)
 ![logo](https://user-images.githubusercontent.com/18654826/120942005-c9752580-c6da-11eb-82fe-3bf0412c8637.png)
+![image](https://user-images.githubusercontent.com/18654826/120942138-b31b9980-c6db-11eb-9b57-595e3afd533c.png)
 
 **Applied Scientist, Intern**
 
