@@ -25,7 +25,7 @@ Currently, my research is in very initial stages. To get an idea of the problem 
 
 Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
-### Summer Internship (May - Aug, 2021) <img align="right" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="400" height="115">
+### Summer Internship (May - Aug, 2021) <img align="right" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="350" height="100">
 **Applied Scientist, Intern** 
 
 
