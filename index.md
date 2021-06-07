@@ -25,8 +25,9 @@ Currently, my research is in very initial stages. To get an idea of the problem 
 
 Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
 
-### Summer Internship (May - Aug, 2021) 
-<img align="center" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="100" height="30"> **Applied Scientist Intern**
+### Summer Internship (May - Aug, 2021) @ <img align="center" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="100" height="30"> 
+* Worked as an **Applied Scientist Intern** on the Supply Chain Optimization Technologies (SCOT) - Fulfillment Optimization (FO) team. 
+* Designed and evaluate a novel sampling strategy by incorporate future demand forecasts to reduce fidelity gap between 
 
 
 ### Projects
