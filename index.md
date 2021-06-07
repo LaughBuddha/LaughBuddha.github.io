@@ -21,9 +21,10 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 **Topic** - Navigation of agents in 3D indoor environments to achieve tasks such as point goal, object goal, and multi-object navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
 
-Currently, my research is in very initial stages. To get an idea of the problem statement please refer the following related works - [Active Neural SLAM](https://www.cs.cmu.edu/~dchaplot/projects/neural-slam.html) and [Semantic Exploration](https://www.cs.cmu.edu/~dchaplot/projects/semantic-exploration.html) by Chaplot et al., [Multi-Object Navigation](https://arxiv.org/pdf/2012.03912.pdf) by Wani et al. and [AI Habitat](https://aihabitat.org/).
-
-Personal contributions to be updated soon. [Last Updated: Feb 01, 2021]
+* [Optimized semantic map prediction in Learning2Map (L2M) algorithm for indoor navigation](https://github.com/LaughBuddha/Object-Goal-Navigation) | *Pytorch, Python*
+   - Explored the various sub-components of training an autonomous agent to navigate to different objects in an indoor environment.
+   - Improved IoU and F1 score metrics by changing the loss function with Focal Loss, incorporating an LSTM layer in the network, and fine-tuning the weights for different components of the loss objective.
+   - Experiments performed using [Matterport3D dataset](https://niessner.github.io/Matterport/) on [AI Habitat](https://aihabitat.org/) simulator.
 
 ### Summer Internship (May - Aug, 2021) @ <img align="center" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="100" height="30"> 
 * As an **Applied Scientist Intern** on the Supply Chain Optimization Technologies (SCOT) - Fulfillment Optimization (FO) team. 
