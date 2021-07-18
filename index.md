@@ -30,7 +30,7 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 * **Forward Looking Sampling** | *Python, SQL, Amazon Sagemaker, S3*
    - As an **Applied Scientist Intern** on the **Supply Chain Optimization Technologies (SCOT) - Fulfillment Optimization (FO)** team. 
    - Designed and evaluated a novel forward-looking sampling strategy to generate high-fidelity samples of the millions of customer orders placed on Amazon.com and its subsidiaries.
-   - The sampling strategy incorporates demand forecast and produces samples which are representative of future demand, leading to better planning and execution of resources for peak periods (Prime Day, Black Friday, Christmas and New Years etc.).
+   - Performed K-means clustering to incorporate demand forecast and produce samples which are representative of future demand, leading to better planning and execution of resources for peak periods (Prime Day, Black Friday, Christmas and New Years etc.).
    - The samples are used to run simulations based on which Amazon plans its entire order fulfillment supply chain across the world.
 
 ### Projects
