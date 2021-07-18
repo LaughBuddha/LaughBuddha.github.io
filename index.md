@@ -22,7 +22,7 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
 
 * [Optimized semantic map prediction in Learning2Map (L2M) algorithm for indoor navigation](https://github.com/LaughBuddha/Object-Goal-Navigation/blob/main/Learning2Map_LSTM_FocalLoss.pdf) | *Pytorch, Python*
-   - Explored the various sub-components of training an autonomous agent to navigate to different objects in an indoor environment.
+   - Explored the various sub-components (map prediction, goal selection, navigation) of training an autonomous agent to navigate to different objects in an indoor environment.
    - Improved IoU and F1 score metrics by changing the loss function with Focal Loss, incorporating an LSTM layer in the network, and fine-tuning the weights for different components of the loss objective.
    - Experiments performed using [Matterport3D dataset](https://niessner.github.io/Matterport/) on [AI Habitat](https://aihabitat.org/) simulator.
 
