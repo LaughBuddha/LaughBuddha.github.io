@@ -28,10 +28,10 @@ Pursuing master's thesis in **Computer Vision/Perception in Robotics**
 
 ### Summer Internship (May - Aug, 2021) @ <img align="center" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="100" height="30"> 
 * **Forward Looking Sampling** | *Python, SQL, Amazon Sagemaker, S3*
-* As an **Applied Scientist Intern** on the **Supply Chain Optimization Technologies (SCOT) - Fulfillment Optimization (FO)** team. 
-* Designed and evaluated a novel forward-looking sampling strategy to generate high-fidelity samples of the millions of customer orders placed on Amazon.com and its subsidiaries.
-* The sampling strategy incorporates demand forecast and produces samples which are representative of future demand, leading to better planning and execution of resources for peak periods (Prime Day, Black Friday, Christmas and New Years etc.).
-* The samples are used to run simulations based on which Amazon plans its entire order fulfillment supply chain across the world.
+   - As an **Applied Scientist Intern** on the **Supply Chain Optimization Technologies (SCOT) - Fulfillment Optimization (FO)** team. 
+   - Designed and evaluated a novel forward-looking sampling strategy to generate high-fidelity samples of the millions of customer orders placed on Amazon.com and its subsidiaries.
+   - The sampling strategy incorporates demand forecast and produces samples which are representative of future demand, leading to better planning and execution of resources for peak periods (Prime Day, Black Friday, Christmas and New Years etc.).
+   - The samples are used to run simulations based on which Amazon plans its entire order fulfillment supply chain across the world.
 
 ### Projects
 * **US Traffic Accidents** | *Predictive Analytics, Python, scikit-learn, matplotlib, seaborn, Spark* | [Github Repo](https://github.com/LaughBuddha/Predictive-Analytics/blob/master/US_Traffic_Accidents.ipynb)
