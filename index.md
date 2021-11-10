@@ -7,16 +7,8 @@ Graduate student at **University of Pennsylvania**, [MSE in Data Science](https:
 ### Areas of Interest
 Data Science, Machine Learning, Deep Learning
 
-### Technology, languages, tools
-* **Programming Language:** Python
-   - NumPy, pandas, scikit-learn, matplotlib, seaborn
-* **Deep Learning framework:** PyTorch   
-* SQL
-* Apache Spark, PySpark
-* Experience in working on **Amazon EC2** and **EMR** instances
-
 ### Research
-Pursuing master's thesis in **Computer Vision/Perception in Robotics**
+Pursuing master's thesis in **Visual Navigation in Indoor Environments**
 
 **Topic** - Navigation of agents in 3D indoor environments to achieve tasks such as point goal, object goal, and multi-object navigation.<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
