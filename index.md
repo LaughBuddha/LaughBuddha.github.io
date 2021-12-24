@@ -8,9 +8,9 @@ Graduate student at **University of Pennsylvania**, [MSE in Data Science](https:
 Data Science, Machine Learning, Deep Learning
 
 ### Research
-Pursuing master's thesis in **Visual Navigation in Indoor Environments**
+Completed Masters thesis in [Navigation To Multiple Semantic Targets In Novel Indoor Environments](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_Masters_ThesisCGKD.pdf)
 
-**Topic** - Navigation of agents in 3D indoor environments to achieve tasks such as point goal, object goal, and multi-object navigation.<br/>
+**Keywords** - *Multi-object Navigation, Visual Navigation, Object-goal Navigation*<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
 
 * [Optimized semantic map prediction in Learning2Map (L2M) algorithm for indoor navigation](https://github.com/LaughBuddha/Object-Goal-Navigation/blob/main/Learning2Map_LSTM_FocalLoss.pdf) | *Pytorch, Python*
