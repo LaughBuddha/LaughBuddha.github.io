@@ -11,7 +11,8 @@ Data Science, Machine Learning, Deep Learning
 Completed Masters thesis in [Navigation To Multiple Semantic Targets In Novel Indoor Environments](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_Masters_ThesisCGKD.pdf)
 
 **Keywords** - *Multi-object Navigation, Visual Navigation, Object-goal Navigation*<br/>
-**Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/) and [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/)
+**Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/), and [Bernadette Bucher
+](https://bucherb.github.io/)
 
 * [Optimized semantic map prediction in Learning2Map (L2M) algorithm for indoor navigation](https://github.com/LaughBuddha/Object-Goal-Navigation/blob/main/Learning2Map_LSTM_FocalLoss.pdf) | *Pytorch, Python*
    - Explored the various sub-components (map prediction, goal selection, navigation) of training an autonomous agent to navigate to different objects in an indoor environment.
