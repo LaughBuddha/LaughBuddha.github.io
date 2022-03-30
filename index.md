@@ -2,7 +2,7 @@
 
 [Resume](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_UPenn_Fall2021.pdf) / [Email](mailto:sigoel@seas.upenn.edu) / [LinkedIn](https://www.linkedin.com/in/siddharth-goel-in)
 
-- Currently, working as Applied Scietist at Amazon 
+- Currently, working as **Applied Scientist** at <img align="center" src="https://user-images.githubusercontent.com/18654826/120942319-093d0c80-c6dd-11eb-8c37-1bfdcaf938f2.png" width="100" height="30"> 
 - Former graduate student at **University of Pennsylvania**, [MSE in Data Science](https://dats.seas.upenn.edu/) (Dec, 2021)
 
 ### Areas of Interest
