@@ -9,7 +9,7 @@
 Data Science, Machine Learning, Deep Learning
 
 ### Research
-Completed Masters thesis in [Navigation To Multiple Semantic Targets In Novel Indoor Environments](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_Masters_ThesisCGKD.pdf)
+Completed Masters thesis in **Navigation To Multiple Semantic Targets In Novel Indoor Environments** [pdf](https://github.com/LaughBuddha/LaughBuddha.github.io/blob/master/SiddharthGoel_Masters_ThesisCGKD.pdf) [slides]()
 
 **Keywords** - *Multi-object Navigation, Visual Navigation, Object-goal Navigation*<br/>
 **Advised by** - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Georgios Georgakis](https://cs.gmu.edu/~ggeorgak/), and [Bernadette Bucher
